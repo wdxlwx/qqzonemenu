@@ -2,7 +2,7 @@
 @font-face
 {
     font-family:'Raphaelicons';
-    src:url(font/raphaelicons-webfont.svg) format('svg'),url(font/raphaelicons-webfont.woff) format('woff');
+    src:url(../font/raphaelicons-webfont.svg) format('svg'),url(../font/raphaelicons-webfont.woff) format('woff');
     font-weight:normal;
 }
 *
